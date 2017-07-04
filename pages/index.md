@@ -32,39 +32,25 @@ Durch die freiwillige Arbeit einiger Admins werden laufend anfallende Arbeiten e
 
 ## Anbindung
 
-- Anbindung des Servers an Fast-Ethernet Switch
-- Fast-Ethernet bzw. Gigabit-Ethernet Netzwerk zu den Upstream Partnern
-- Internetzugang Bandbreite Spitzen bis 100MBit möglich (*)
+- Anbindung des Servers an Fast- oder Gigabit-Ethernet Switch
+- Gigabit-Ethernet Netzwerk zu den Upstream Partnern
+- Internetzugang Bandbreite Spitzen bis 1GBit/s möglich (*)
 - Backbone Anbindung multihomed über 3 Upstream Partner
-- Anbindung des Servers an Fast-Ethernet Switch
 
 ## mögliche Serverformate
 
 - Mini/Midi/Big-Tower
 - 19" Rack-Housing
 - Mini-ITX & Co.
-- Virtueller Server normal/mini
-
-## Vserver (Beta)
-
-- 2GB Ram
-- 100GB Speicherplatz
-- Betriebssystem: Linux, Unix, Windows
-
-## Vserver mini
-
-- 256MB Ram
-- 10GB Speicherplatz
-- Betriebsystem Ubuntu Server, Debian oder Gentoo
-- Xen-Shell zum steuern des Servers
+- embedded Board (5V microUSB)
 
 ## Unkostenbeitrag
 
-- €40 /Monat Mini/Midi/Big-Tower, 19"
-- €19 /Monat Mini-ITX (geringer Strom- und Bandbreitenverbrauch)
-- €19 /Monat Virtueller Server
-- €9 /Monat Virtueller Server mini
-- €6 /Monat Stromupgrade
+- €40/Monat Standard (150W/350GB fair-use)
+- €19/Monat Micro (geringer Strom- und Bandbreitenverbrauch, 45W/100GB fair-use)
+- €5/Monat Embedded Board (8W/5V 100GB)
+- €6/Monat Stromupgrade pro 50W (für Standard)
+- €5/Monat Traffic Upgrade 250GB
 
 ## Anmeldung
 
@@ -74,5 +60,3 @@ Bei Interesse zögern Sie nicht, uns persönlich unter `admin [at] funkfeuer [pu
 - [Muster: Nutzungsvertrag Serverplatz](/files/Serverplatz-Muster.pdf)
 - [Muster: Nutzungsvertrag Micro-Serverplatz](/files/Micro-Serverplatz.pdf)
 - [Muster: SEPA Lastschrifts-Mandat](/files/SEPA-Lastschrift.pdf)
-
-
