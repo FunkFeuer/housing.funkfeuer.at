@@ -10,7 +10,6 @@
 
 Eine Liste von Projekten, deren Server bei uns ein Zuhause gefunden haben ...
 
-- [lo-res.org](http://lo-res.org/)
 - [|sonance|network](http://www.sonance.net/)
 - [LoungeFM](http://www.loungefm.at/)
 - [charon](http://www.charon.at/)
