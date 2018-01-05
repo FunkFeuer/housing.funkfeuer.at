@@ -57,6 +57,8 @@ Durch die freiwillige Arbeit einiger Admins werden laufend anfallende Arbeiten e
 Bei Interesse zögern Sie nicht, uns persönlich unter `admin [at] funkfeuer [punkt] at` zu kontaktieren.
 
 - [Allgemeine Geschäftsbedingungen](/files/AGB.pdf)
-- [Muster: Nutzungsvertrag Serverplatz](/files/Serverplatz-Muster.pdf)
+- [SEPA Lastschrift Mandat](/files/SEPA-Lastschrift.pdf)
+- [Muster: Nutzungsvertrag Serverplatz](/files/Serverplatz.pdf)
 - [Muster: Nutzungsvertrag Micro-Serverplatz](/files/Micro-Serverplatz.pdf)
-- [Muster: SEPA Lastschrifts-Mandat](/files/SEPA-Lastschrift.pdf)
+- [Muster: Nutzungsvertrag Micro-Serverplatz](/files/Nano-Serverplatz.pdf)
+- [Muster: Stromupgrade](/files/Stromupgrade.pdf)
