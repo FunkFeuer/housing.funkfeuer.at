@@ -60,5 +60,5 @@ Bei Interesse zögern Sie nicht, uns persönlich unter `admin [at] funkfeuer [pu
 - [SEPA Lastschrift Mandat](/files/SEPA-Lastschrift.pdf)
 - [Muster: Nutzungsvertrag Serverplatz](/files/Serverplatz.pdf)
 - [Muster: Nutzungsvertrag Micro-Serverplatz](/files/Micro-Serverplatz.pdf)
-- [Muster: Nutzungsvertrag Micro-Serverplatz](/files/Nano-Serverplatz.pdf)
+- [Muster: Nutzungsvertrag Nano-Serverplatz](/files/Nano-Serverplatz.pdf)
 - [Muster: Stromupgrade](/files/Stromupgrade.pdf)
