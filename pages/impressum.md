@@ -11,6 +11,8 @@
 <p>Verantwortlich für den Inhalt dieser Website ist <i>FunkFeuer Wien - Verein zur Förderung freier Netze</i>, ZVR-Zahl 814804682.</p>
 
 <br/>
+**Anfragen betreffend Housing:** housing(at)funkfeuer.at
+
 **Kontaktanfragen via E-Mail:** vorstand(at)funkfeuer.at
 
 **Presseanfragen bitte an:** presse(at)funkfeuer.at

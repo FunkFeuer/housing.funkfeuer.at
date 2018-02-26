@@ -54,7 +54,7 @@ Durch die freiwillige Arbeit einiger Admins werden laufend anfallende Arbeiten e
 
 ## Anmeldung
 
-Bei Interesse zögern Sie nicht, uns persönlich unter `admin [at] funkfeuer [punkt] at` zu kontaktieren.
+Bei Interesse zögern Sie nicht, uns persönlich unter `housing [at] funkfeuer [punkt] at` zu kontaktieren.
 
 - [Allgemeine Geschäftsbedingungen](/files/AGB.pdf)
 - [SEPA Lastschrift Mandat](/files/SEPA-Lastschrift.pdf)

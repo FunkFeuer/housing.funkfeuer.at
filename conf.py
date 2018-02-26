@@ -11,6 +11,16 @@ BLOG_DESCRIPTION = "Das FunkFeuer-Housing organisiert & betreibt ein nicht auf G
 THEME = 'funkfeuer.at-theme'
 USE_BUNDLES = False
 
+FAVICONS = (
+     ("icon", "assets/favicon.ico", "16x16"),
+ )
+
+TWITTER_CARD = {
+	'use_twitter_cards': True,
+	'card': 'summary',
+	'site': '@Funkfeuer_at',
+	'creator': '@Funkfeuer_at',
+}
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
@@ -67,6 +77,7 @@ CONTENT_FOOTER_FORMATS = {
 }
 STRIP_INDEXES = True
 PRETTY_URLS = True
+COPY_SOURCES = False
 MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra', 'attr_list', 'admonition']
 UNSLUGIFY_TITLES = True
 ENABLE_AUTHOR_PAGES = False
