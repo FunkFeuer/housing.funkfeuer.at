@@ -35,7 +35,7 @@ TRANSLATIONS = {
 }
 NAVIGATION_LINKS = {
 	DEFAULT_LANG: (
-	('/aktuelles/', 'News & Status'),
+#	('/aktuelles/', 'News & Status'),
 	('/housed/', 'Housed Projects'),
 	('/impressum/', 'Kontakt')
 	),
