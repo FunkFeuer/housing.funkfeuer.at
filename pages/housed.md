@@ -1,6 +1,6 @@
 .. title: Housed Projects
 .. slug: housed
-.. date: 1970-01-01 00:00:00 UTC
+.. date: 2019-11-01 20:40:00 UTC
 .. hidetitle: True
 .. tags:
 .. link:
@@ -16,8 +16,8 @@ Eine Liste von Projekten, deren Server bei uns ein Zuhause gefunden haben ...
 - [PC-Net](http://www.pc-net.at/)
 - [mond.at](http://www.mond.at/)
 - [OKTO TV](http://www.okto.tv/)
-- [monochrom](http://www.monochrom.at/)
 - [OpenBSD](http://www.at.openbsd.org/)
 - [Pittel + Brausewetter](http://www.pittel.at/)
 - [CAcert](http://www.cacert.org/)
 - [Zeichnemit.at](http://www.zeichnemit.at/)
+- [Maturaschule Dr. Roland](https://www.roland.at/)
